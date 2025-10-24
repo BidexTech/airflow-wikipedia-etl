@@ -1,4 +1,4 @@
--# Wikipedia Pageviews ETL Pipeline (Airflow + Supabase)
+# Wikipedia Pageviews ETL Pipeline (Airflow + Supabase)
 
 This project implements an **Apache Airflow–orchestrated ETL pipeline** that downloads, extracts, transforms, and loads Wikipedia pageview data into a Supabase PostgreSQL database.  
 The pipeline focuses on five major tech companies — `Amazon`, `Apple`, `Facebook`, `Google`, and `Microsoft`.
@@ -96,3 +96,4 @@ Author
 - Afeez Olasunkanmi
 - Date Engineer
 - olasunkanmiabidemia@gmail.com
+
