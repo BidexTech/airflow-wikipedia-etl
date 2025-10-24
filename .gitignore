@@ -1,10 +1,16 @@
 
 # Environment files
+
 *.env
+
+# Airflow
+
+*/__pycache__/
 
 # Data files
 *.csv
 *.gz
 *.txt
+
 
 
