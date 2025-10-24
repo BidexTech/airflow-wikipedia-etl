@@ -1,0 +1,10 @@
+
+# Environment files
+*.env
+
+# Data files
+*.csv
+*.gz
+*.txt
+
+
