@@ -71,6 +71,8 @@ docker compose up -d --build
  Loaded 227 records into Supabase! source=task.stdout
  ETL Pipeline completed successfully!
 ```
+![ETL DAG Flow](./images/loaded_supabase_data.PNG)
+https://github.com/BidexTech/airflow-wikipedia-etl/blob/main/images/loaded_supabase_data.PNG
 ### Best Practices Implemented
 
 1. Retries: DAG retries failed tasks up to 2 times.
@@ -96,4 +98,7 @@ Author
 - Afeez Olasunkanmi
 - Date Engineer
 - olasunkanmiabidemia@gmail.com
+- [LinkedIn](https://linkedin.com/in/afeez-olasunkanmi-874827236)
+  
+
 
