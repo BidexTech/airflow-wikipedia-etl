@@ -53,7 +53,7 @@ host=<YOUR_SUPABASE_HOSTNAME>
 port=5432
 dbname=postgres
 ```
-### 1. Run with Airflow
+### 2. Run with Airflow
 ```bash
 # Start Airflow if using docker compose
 
@@ -100,5 +100,6 @@ Author
 - olasunkanmiabidemia@gmail.com
 - [LinkedIn](https://linkedin.com/in/afeez-olasunkanmi-874827236)
   
+
 
 
