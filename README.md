@@ -29,7 +29,7 @@ The pipeline focuses on five major tech companies — `Amazon`, `Apple`, `Facebo
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/airflow_test_scripts.git
+git clone https://github.com/BidexTech/airflow-wikipedia-etl
 cd airflow_test_scripts
 
 # Create and or Activate Virtual Environment alrwady in your airflow 
@@ -100,6 +100,7 @@ Author
 - olasunkanmiabidemia@gmail.com
 - [LinkedIn](https://linkedin.com/in/afeez-olasunkanmi-874827236)
   
+
 
 
 
